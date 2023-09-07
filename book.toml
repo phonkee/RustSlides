@@ -1,0 +1,16 @@
+[book]
+authors = ["Peter Vrba <phonkee@phonkee.eu>"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust"
+
+[output.html.search]
+enable = false
+
+[output.html.playground]
+editable = true
+
+[build]
+create-missing = true
+build-dir = "build"
